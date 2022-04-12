@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	jsu "github.com/skowe/jsonurlshort"
+	jsu "github.com/skowe/urlshort/jsonshort"
 )
 
 //Recieve input flag for redirect.json

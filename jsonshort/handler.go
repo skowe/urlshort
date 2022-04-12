@@ -1,4 +1,4 @@
-package jsonurlshort
+package jsonshort
 
 import (
 	"bytes"
